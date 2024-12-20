@@ -1,0 +1,7 @@
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/azWebAppPractice2
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/appsettings.Development.json
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/appsettings.json
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/azWebAppPractice2.dll
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/azWebAppPractice2.deps.json
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/azWebAppPractice2.runtimeconfig.json
+/Users/Apple/Downloads/Movies/Dev/100Devs/azWebAppPractice2/bin/Release/net9.0/publish/azWebAppPractice2.pdb

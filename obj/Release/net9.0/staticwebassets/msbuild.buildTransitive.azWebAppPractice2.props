@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/azWebAppPractice2.props" />
+</Project>
